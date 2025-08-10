@@ -32,16 +32,13 @@
 
 ## 📂 Featured Projects  
 - **Smart Contact Book** — Java DSA-based contact manager using `HashMap` for O(1) search & delete.  
-  _Tech Stack: Java, HashMap, File I/O, OOP_  
-  [🔗 View Project](https://github.com/Vishnukumar-GM/smart-contact-book)  
+  _Tech Stack: Java, HashMap, File I/O, OOP_   
 
 - **Simple Banking Application** — Console-based banking system with secure login, transactions, and MySQL database integration.  
   _Tech Stack: Java, JDBC, MySQL, OOP_  
-  [🔗 View Project](https://github.com/Vishnukumar-GM/simple-banking-app)  
 
 - **AI-Powered ATS System (Learning Project)** — Basic resume-job matching tool using LangChain and FastAPI.  
   _Tech Stack: Python, LangChain, FastAPI_  
-  [🔗 View Project](https://github.com/Vishnukumar-GM/ai-ats-system)  
 
 ---
 
